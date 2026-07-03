@@ -1,28 +1,33 @@
-AI-powered Medical Report Assistant using RAG.
 
-## Features
+# 🩺 AI Medico Bot
 
-- Upload Medical Reports (PDF)
-- Google Gemini Support
-- Ollama Support
-- FAISS
-- ChromaDB
-- Multiple Embedding Models
-- Medical Report Summary
-- Explain Medical Terms
-- Medical Question Answering
-- Retrieved Context Viewer
+An AI-powered Medical Report Assistant built with Streamlit, LangChain, Google Gemini, Ollama, and Retrieval-Augmented Generation (RAG). Users can upload medical reports, ask questions in natural language, generate summaries, and receive context-aware medical insights.
 
-## Technology Stack
+## ✨ Features
+
+- 📄 Upload Medical Reports (PDF)
+- 🤖 Google Gemini Integration
+- 🦙 Ollama (Local LLM) Support
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 🧠 Multiple Embedding Models
+- 📚 FAISS & ChromaDB Vector Stores
+- 📋 AI Medical Report Summary
+- 💡 Medical Term Explanation
+- ❓ Intelligent Medical Question Answering
+- 🔎 Retrieved Context Viewer
+
+## 🛠️ Technology Stack
 
 - Python
 - Streamlit
 - LangChain
-- HuggingFace
 - Google Gemini
 - Ollama
+- Hugging Face Embeddings
 - FAISS
 - ChromaDB
+- PyPDF
+- Sentence Transformers
 
 ## Run
 
